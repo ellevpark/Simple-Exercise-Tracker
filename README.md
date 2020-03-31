@@ -1,5 +1,5 @@
 # Simple-Exercise-Tracker
-A simple exercise tracker using MERN stack and following freecodecamp's tutorial online
+A simple exercise tracker using the MERN stack and following freecodecamp's tutorial online
 
 ## Overall Concept
 
