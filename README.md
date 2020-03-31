@@ -16,7 +16,7 @@ The user will be able to :
 ## Technologies Used
 
 <ul>
-<li>Reacr</li>
+<li>React</li>
 <li>Bootstrap</li>
 <li>Axios </li>
 <li>Express</li>
