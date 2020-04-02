@@ -22,7 +22,6 @@ The user will be able to :
 <li>Express</li>
 <li>Mongoose</li>
 </ul>
-</li>
 
 ## How to use
 
