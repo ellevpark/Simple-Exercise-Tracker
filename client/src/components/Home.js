@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
 
-const Home = props => (
+const Exercise = props => (
   <tr>
     <td>{props.exercise.username}</td>
     <td>{props.exercise.description}</td>
